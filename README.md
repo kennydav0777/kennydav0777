@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kennydav0777
-- 👀 I’m interested in life
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on class projects
 - 📫 How to reach me : kdavy216@gmail.com
